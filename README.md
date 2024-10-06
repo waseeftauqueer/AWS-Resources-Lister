@@ -1,11 +1,5 @@
 # AWS Resource Listing Script 🚀
 
-## Author
-**Waseef Tauqueer** ✍️
-
-## Version
-**v0.0.1** 🔖
-
 ## Description
 This Bash script automates the process of listing various resources in an AWS account. It supports multiple AWS services and allows users to specify a region and service to retrieve resource information. 🌐
 
