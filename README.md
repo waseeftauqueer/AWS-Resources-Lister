@@ -52,9 +52,6 @@ aws configure
 - The script checks for the required number of arguments. If not provided, it will display usage instructions. ⚠️
 - It verifies whether the AWS CLI is installed and configured before executing any commands. ✔️
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
-
 ## Acknowledgments
 - Thank you for using this script! Feel free to contribute or suggest improvements. 🙌
-```
+
